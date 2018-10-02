@@ -5,4 +5,5 @@ ChatListView
         Segunda tela: lista de fotos com informações de cada pessoa(nome e telefone)
         Terceira tela: Quando clica na pessoa, ela deve mostrar tipo um perfil dela
         
-        ![alt text](https://raw.githubusercontent.com/acebeR/ChatListView/master/img/login.png)
+        ![alt text](https://github.com/acebeR/ChatListView/blob/master/img/list.png?raw=true)
+        
