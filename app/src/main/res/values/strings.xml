@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatListView</string>
+
+    <string name="strgEmail">Email:</string>
+    <string name="email">rebeca@gmail.com</string>
+    <string name="strgSenha">Senha:</string>
+    <string name="strgBem">BemVindo</string>
+    <string name="strgEntrar">Entrar</string>
+    <string name="strgVoltar">Voltar</string>
+
+
+</resources>
